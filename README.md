@@ -1,0 +1,2 @@
+# scmd
+Short windows command
